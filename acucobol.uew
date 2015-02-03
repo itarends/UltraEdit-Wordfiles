@@ -1,4 +1,4 @@
-/L20"ACU Cobol (Version X-tanken)" COBOL_LANG "Line Comment Num = 1*" "Line Comment Valid Columns = [7]" Nocase File Extensions = CBL cbl
+/L20"ACU Cobol" COBOL_LANG "Line Comment Num = 1*" "Line Comment Valid Columns = [7]" Nocase File Extensions = CBL cbl
 /Colors = 0,8421376,8421376,8421504,255,
 /Colors Back = 16777215,16777215,16777215,16777215,16777215,
 /Colors Auto Back = 1,1,1,1,1,
