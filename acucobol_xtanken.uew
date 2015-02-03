@@ -1,0 +1,89 @@
+/L20"ACU Cobol (Version X-tanken)" COBOL_LANG "Line Comment Num = 1*" "Line Comment Valid Columns = [7]" Nocase File Extensions = CBL cbl
+/Colors = 0,8421376,8421376,8421504,255,
+/Colors Back = 16777215,16777215,16777215,16777215,16777215,
+/Colors Auto Back = 1,1,1,1,1,
+/Font Style = 0,0,0,0,0,
+/Function String = "^{%[ ^t]+[a-z]+ SECTION^}^{%[ ^t]+[a-z]+ DIVISION^}"
+/Delimiters = ~!@$%^&*()_+=|\/{}[]:;"'<> ,.?/
+/Open Brace Strings = "("
+/Close Brace Strings = ")"
+/Open Fold Strings = "{"
+/Close Fold Strings = "}"
+/C1 Colors = 16711680 Colors Back = 16777215 Colors Auto Back = 1 Font Style = 0
+accept action area adjustable-columns alignment access add after all alternate and any as ascending assign at author auto auto-spin
+before binary box boxed by background-low blank
+close-function cell column close cell-color comp-x cell-data cursor-frame-width column-dividers column-headings color centered-headings comma compute continue converting check-box control crt cursor console configuration col cells combo-box
+duplicates destroy dynamic date data-types display-columns default decimal-point data-columns declaratives delete delimited descending display division date-compiled date-written data debugging date-entry duplicate-key drop-list
+erase event extend event-action event-action-fail-terminate event-action-terminate event-action-fail event-data-1 event-data-2 enabled end-compute end-display end-read environment-division equal equals exit end entry-field environment engraved exception-value event-type event-control-id error ex-sort-in ex-sort-out end-return
+file-info for floating fd function file-control filler first from frame file file-not-found
+giving grip greater grid group graphical
+height heading handle hscroll-pos hscroll high-value high-values heading-color heading-divider-color
+i-o integer i-o-complete icon id in indexed initialize input inspect into invalid is inquire identification input-output item-to-add item-to-delete
+key
+label last leading left line linkage lines lock low-value low-values list-box 
+menu message mod msg-begin-entry manual multiline msg-heading-clicked msg-col-width-changed msg-heading-dblclick msg-goto-cell-mouse msg-goto-cell mode move multiply modify min-val max-val max-text mass-update
+not ntf-selchange null numeric ntf-resized next no-record-found notify-selchange notify-change notify num-rows
+occurs of omitted open or order organization output on object-computer
+panel-style panel-widths password pop-up pointer pic previous programm program-id program preprocess push-button
+reverse-video resizable region-color replacing rounded read row-headings record-to-add reset-grid record-data row-color-pattern row-dividers record-position record redefines relative release reset return rewrite right radio-button run reset-list
+status-bar system sc start-x start-y sort-in sort-out separation sd section secure select sequential set sort space spaces special-names start status string subtract screen switch source-computer size self-act stop
+to tab-control true thread tallying time times title trailing transparent type tiled-headings
+unstring usage until up use
+value values vscroll virtual-width varying vscroll-pos vpadding
+window write when working-storage with
+x
+y
+zero zeros
+/C2 Colors = 255 Colors Back = 16777215 Colors Auto Back = 1 Font Style = 1
+copy call cancel
+end-perform
+go
+perform procedure
+thru
+using
+/C3 Colors = 33023 Colors Back = 16777215 Colors Auto Back = 1 Font Style = 1
+exit else end-if end-evaluate evaluate
+if
+other
+when
+/C4 Colors = 32768 Colors Back = 16777215 Colors Auto Back = 1 Font Style = 0
+close
+delete
+open
+rewrite read
+start
+write
+/C5 Colors = 4210816 Colors Back = 16777215 Colors Auto Back = 1 Font Style = 0
+abbruch-benutzerverwaltung add-datum add-tage abs-diff-tage abbruch-server-status-thread anzahl-resttage-des-monats add-datum-definition add-datum-jh add-datum-jj add-datum-jjjj add-datum-jjjj-definition add-datum-mm add-datum-tt anzahl-resttage-des-monatsfirst-datum action-maximize arrow-pointer
+** bckgrnd-
+benutzervw bad-filename bad-index boundary-violation berechne-intern-differenztage
+** cfg-
+** crt-ft
+crt-status cmd-f1 cmd-f2 cmd-f3 cmd-f4 cmd-f5 cmd-f6 cmd-f7 cmd-f8 cmd-f9 cmd-f10 cmd-f11 cmd-f12 call-sys-filler call-sys conf-key ctkerrhilfe1-x conf-wert config-schreiben config-loeschen check-multisperre call-listenverwaltung call-telefonverkauf call-firmeninfo call-kundenstamm chk-datum conf-key call-sys-2 call-sys-err call-sys-fillerprg-name call-system cdatum-filler cdatum-jh cdatum-jj cdatum-mm cdatum-n cdatum-tt cdatum-x cdatum checked-laeuft chk-datum-definition chk-datum-jh chk-datum-jj chk-datum-jjjj chk-datum-jjjj-definition chk-datum-mm chk-datum-tt conf-rewrite-jn crt-enter crt-esc crt-ftx crt-sft03 crt-sft04 crt-stat2 ctkerrhilfe1-n ctkerrhilfe1-r ctkerrhilfe2-n ctkerrhilfe2-r ctkerrhilfe2-x cursor-position czahl-filler czahl-n czahl conf-definition conf-filler conf-satz close-functiontotrue
+del-daten-key del-segkey1 del-segkey2 del-kz differenztage diff-faktor debug datum-pruefen dat-zahl delete-file display-int delete-record diff1-datum diff2-datum diff-tage datumspruefung-ok-jn delrecs-fehler-jn dummy datumspruefung-ok-jncall-sys ddisplay-intadd-tage diff-faktorpruef-datum diff1-datum-definition diff1-datum-jh diff1-datum-jj diff1-datum-jjjj diff1-datum-jjjj-definition diff1-datum-mm diff1-datum-tt diff2-datum-definition diff2-datum-jh diff2-datum-jj diff2-datum-jjjj diff2-datum-jjjj-definition diff2-datum-mm diff2-datum-tt display-double-1 display-double-2 display-double-3 display-double-4 display-double-5 display-double-6 display-statusbar display-toolbar display-window del-datei del-daten del-datum del-definition del-filler del-id del-key del-prgname del-satz del-uid del-zeit delrecs datfile doppelte-jobs
+ex-set-tkversion err-msg ex-err-msg ex-config-schreiben ex-config-loeschen ex-set-panel ex-set-multisperre ex-check-multisperre ex-reset-multisperre ex-tkperm-lesen ex-lssteuer-datei-lesen ex-user-file-lesen ex-user-anlegen ex-globalconfig-lesen ex-mark-file-tolistvw ex-call-listenverwaltung ex-tk-datum-add ex-monatserster ex-monatsletzter ex-schaltjahr ex-wochentag ex-kalenderwoche ex-differenztage ex-datum-pruefen ex-vix-record-count ex-set-help ex-tkfarben ex-tkwinpos-setzen ex-tkwinpos-speichern ex-nshift ex-dat-zahl ex-zahl-dat ex-init-job ex-version-log ex-server-status ex-call-telefonverkauf ex-call-firmeninfo ex-call-kundenstamm ex-pfad-anlegen ex-xoil-cblconfig ex-xtk-cblconfig ex-protokoll ex-protokoll-delete ex-delete-file ex-delete-record ex-benutzervw ex-read-z-conf end-of-file ende-text err-code err-is-error err-is-info err-is-log err-is-warning err-log-lfd-cnt err-text err-text-only err-text-r err-type event-occurred exit-pushed e-no-support ende-benutzervw ende-check-multisperre ende-config-loeschen ende-config-schreiben ende-dat-zahl ende-dat-zahl ende-dat-zahl ende-delete-record ende-init-job ende-init-job ende-intern-differenztage ende-intern-tk-datum-add ende-loguid-user-file-lesen ende-lssteuer-datei-lesen ende-mark-file-tolistvw ende-protokoll ende-read-z-conf ende-reset-multisperre ende-server-status-tkconfig ende-set-help ende-set-multisperre ende-tkperm-lesen ende-tkwinpos-setzen ende-tkwinpos-speichern ende-user-anlegen ende-user-file-lesen ende-version-log ende-vix-record-count ende-zahl-dat errinfo event-tkwin-main ex-event-tkwin-main ex-intern-differenztage ex-intern-kalenderwoche ex-intern-monatserster ex-intern-monatsletzter ex-intern-schaltjahr ex-intern-tk-datum-add ex-intern-tk-datum-sub ex-intern-wochentag ex-resize-tkcontrols ex-server-status-tkconfig ex-zentrale-config
+** fn-
+ft file-status flags filest first-datum file-to-delete file-type-indexed-jn file-locked file-stat-1 first-datum-tt file-stat-2 file-stat-acu file-stat-detail file-stat-extend file-stat-sec file-stat-text file-stat-type filestatus2 filestatus4 first-datum-definition first-datum-jh first-datum-jj first-datum-jjjj first-datum-jjjj-definition first-datum-mm first-datum-ttlast-datum fkt-help full-filename full-filename2 full-path full-programm-name full-tk-filename finput
+globalconfig-lesen get-record-count
+habe-problem hilfe-link hilfs-datumzeit hilfs-zahl hilfs-zahl-no0 htoolbar
+init-job info-function info-mode intern-differenztage intern-kalenderwoche intern-monatserster intern-monatsletzter intern-schaltjahr intern-tk-datum-add intern-tk-datum-sub intern-wochentag io-function
+jahresziffer jahrhundertziffer jobserver-akt-time jobserver-diff-time jobserver-merk-time job-aufrufausprgname job-call-thread-jn job-datum job-datum job-filler job-gesperrt-jn job-in-arbeit-jn job-key job-link job-link job-login job-prgname job-prgname job-prioritaet job-prioritaet job-satz job-zeit job-zeit jobs
+kalenderwoche kw-datum kw kw-jjjj key-backspace key-cursor-bs key-cursor-down key-cursor-left key-cursor-right key-cursor-up key-del key-end key-home key-insert key-minus key-number-0 key-number-1 key-number-2 key-number-3 key-number-4 key-number-5 key-number-6 key-number-7 key-number-8 key-number-9 key-page-down key-page-up key-plus key-pos1 kw kw-datum-definition kw-datum-jh kw-datum-jj kw-datum-jjjj kw-datum-jjjj-definition kw-datum-mm kw-datum-tt kw-jjjjdiff1-datum keine-seitenumbrueche
+lssteuer-datei-lesen lssteuer-rec last-datum loeschfehler-jn last-datum-definition last-datum-tt last-datum-jh last-datum-jj last-datum-jjjj last-datum-jjjj-definition last-datum-mm last-datum-ttchk-datum lssteuer logical-info login-logwin login-uidnr login-uidnr loguid
+mb-antwort mb-no mb-yes mb-yes-no mb-yes-no-cancel mb-cancel modul-name modul-test modul-frei ms-check-status mb-error-icon mb-default-icon mb-warning-icon mark-file-tolistvw monatserster monatsletzter message-received modul-freictkerrhilfe1-x modul-freigabe-jn monatsziffer ms-fehler ms-frei ms-gelaufen ms-gesperrt ms-laeuft ms-ok ms-pruefen ms-reset ms-setzen ms-key ms-prog ms-rec ms-rec-r ms-status ms-step ms-uid multisperre
+** ns-feld
+** ns-tk-feld
+nshift neuer-pfad no-statusbar no-toolbar no-window ns-tk-counter ns-tk-dec ns-tk-dec-n ns-tk-int ns-tk-int-n ns-tk-problem ns-tk-vorzeichen ns-tk-zaehler next-check-multisperre next-reset-multisperre number-of-records
+open-function open-mode open-mode
+passwort-abfragen-jn prg-name prg-name4 prg-name5 pfad-anlegen pid protokoll protokoll-delete pruef-datum protokoll-titel protokoll-spaltenkopf protokoll-seitenumbrueche-jn protokoll-zeilenlaenge protokoll-text permanent-error pidms-check-status protokoll-merkzeile protokoll-ok-jn protokoll-seite protokoll-tempzeile protokoll-zeilen pruef-datum-definition pruef-datum-jh pruef-datum-jj pruef-datum-jjjj pruef-datum-jjjj-definition pruef-datum-mm pruef-datum-tt pruef-multisperre pruef-prg-prgname pruef-prg-r pruef-prg-step perm-ex perm-ex-r perm-ex1 perm-ex2 perm-ex3 perm-ex4 perm-ex5 perm-ex6 perm-exp perm-key perm-module perm-module2 perm-module3 perm-module4 perm-module5 perm-module6 perm-module7 perm-name pos-breite pos-definition pos-filler pos-hoehe pos-key pos-login pos-max pos-prgname pos-satz pos-win-x pos-win-y pos-window protokoll-file panel-text
+real-lssteuer resize-tkcontrols read-z-conf reset-multisperre reset-ms recordtype-to-delete record-to-delete record-locked reset-prg-prgname reset-prg-r reset-prg-step record-count-info return-code rol-bezeichnung rol-bezeichnung rol-feld rol-gid rol-rollenkz rol-status-zugang rollen rueckgabe-werte
+sc-err sc-wait-mode set-tkversion set-panel set-multisperre schaltjahr set-help server-status schaltjahr-jn tk-sys-date tk-sys-date-jh tk-sys-date-kurz tk-sys-date-jj tk-sys-date-mm tk-sys-date-tt tk-sys-time tk-sys-time-6 tk-sys-time-hh tk-sys-time-mm tk-sys-time-ss tk-sys-time-ts schaltjahrkorrektur screen-no-input-field screen-time-out sequence-error setze-multisperre setze-prg-prgname setze-prg-r setze-prg-status setze-prg-step status-code server-status-tkconfig set-mouse-shape set-mouse-shape system-info system-information
+** tk-sys-date
+** tk-sys-time
+tt try-again-delete-record tool-bar tkperm-lesen tkwin-hoehe tkwin-breite tkfkeys-top tk-panel-text tk-datum-add tkfarben tkwinpos-setzen tkwinpos-speichern tkdatum-pruef tkdatum-ok-jn tk-filename tk-record-count tagesziffer tk-combiled-usr tk-compile-mode tk-compiled-by tk-err-log-zeit-zw tk-firma tk-hilfsdatum tk-hilfsdatum-jh tk-hilfsdatum-jj tk-hilfsdatum-mm tk-hilfsdatum-r tk-hilfsdatum-tt tk-hilfszeit tk-hilfszeit-hh tk-hilfszeit-mm tk-hilfszeit-r tk-hilfszeit-ss tk-hilfszeit-ts tk-hintergrundprogramm-jn tk-i tk-panel-text0 tk-panel-text1 tk-panel-text1-width tk-panel-text2 tk-panel-text3 tk-panel-text4 tk-panel-text5 tk-prg-name tk-uid tk-version tk-version-datum tk-version-datum2 tkfixhelp-combiled-usr tkfixhelp-compile-mode tkfixhelp-divers tkfixhelp-link tkfixhelp-login tkfixhelp-prg-name tkfixhelp-sub tkfixhelp-uid tkfixhelp-version-datum tkfkeys-top tkjob-link tkjob-prgname tkjob-prioritaet tkwin-breite tkwin-hoehe tkwin-left tkwin-main tkwin-maxbreite tkwin-maxhoehe tkwin-minbreite tkwin-minhoehe tkwin-resizable tkwin-title tkwin-title-gesamt tkwin-title-xtk tkwin-top tolistvw-filename tolistvw-link-gebiet tolistvw-link-liste1 tolistvw-link-liste2 tolistvw-link-liste3 tolistvw-link-liste4 tolistvw-link-liste5 tolistvw-link-xo037n tolistvw-pfad tolistvw-realname tolistvw-realname-r tolistvw-returncode tempurl tempurl-url tk-err-log tk-err-log-datum tk-err-log-datum-jj tk-err-log-datum-mm tk-err-log-datum-r tk-err-log-datum-tt tk-err-log-def tk-err-log-filler1 tk-err-log-filler2 tk-err-log-filler3 tk-err-log-filler4 tk-err-log-key tk-err-log-lfd tk-err-log-message tk-err-log-message-r tk-err-log-prg-info tk-err-log-prg-text tk-err-log-rec tk-err-log-userid tk-err-log-zeit tk-err-log-zeit-hh tk-err-log-zeit-hs tk-err-log-zeit-mm tk-err-log-zeit-r tk-err-log-zeit-ss tkconfig tkperm tkperm-rec tkperm-satz tkwinpos tolistvw tolistvw-zeile tk-statuszeile tk-statuszeile
+** usr-
+user-file-lesen user-anlegen userfile user-id
+vix-record-count version-log vix-file-handle version-compile-date version-compile-mode version-compile-user version-definition version-filler version-key version-last-call-date version-last-call-time version-last-uid version-prgname version-satz versionlog
+wochentag wt wt-n wait-text wpal-flags wpal-red win-err win-wait-mode wpal-blue wpal-color-id wpal-flagswpal-red wpal-green wpal-user-color-id wpalette-data wtkw-datum wait-pointer writerec
+xoil-cblconfig xo006-link-filler3 xtk-cblconfig xo006-link-bereich-r xo006-link-bereich xo006-link-filler1 xo006-link-filler2 xo006-link-firma xo006-link-firma-n3 xo006-link-firma-x2 xo006-link-ktoart xo006-link-kunde xo006-link-modus xo006-link-name xo006-link-notiz xo006-link-ort xo006-link-r xo006-link-strasse xo006-link-telefon xo006-link-tk-aufruf xoil-firma
+zt zentrale-config zahl-dat zahldatum-key zahldatum-key2 zugriff-verweigert-jn
